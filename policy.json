@@ -1,0 +1,5 @@
+{
+  "version": "demo-2026.1",
+  "reviewers": {"high": ["AI Governance", "Privacy", "Security"], "medium": ["AI Governance"], "low": ["Asset owner"]},
+  "thresholds": {"privacy": 1, "injection": 1, "safety": 1, "monitoring": 1, "human_escalation": 1, "f1": 0.85, "fairness_gap": 0.1, "groundedness": 0.9, "retrieval_recall": 0.85, "language_quality": 0.85, "tool_scope": 1, "approval_gate": 1}
+}
